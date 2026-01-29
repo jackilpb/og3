@@ -1,0 +1,8 @@
+{
+  "name": "og-unfurl",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "open-graph-scraper": "^6.0.0"
+  }
+}
